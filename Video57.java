@@ -11,9 +11,9 @@ public class Video57 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Marco57 miMarco=new Marco57();
-		miMarco.setVisible(true);
-		miMarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		Marco57 miMarco111=new Marco57();
+		miMarco111.setVisible(true);
+		miMarco111.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 }
